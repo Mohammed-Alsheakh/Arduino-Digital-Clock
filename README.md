@@ -1,4 +1,4 @@
---------------------------------- Arduino Digital Clock ---------------------------------
+# Arduino Digital Clock
 
 This project is a digital clock implemented using an Arduino and an LCD display.  
 It displays hours, minutes, and seconds, and allows manual time setting using two push buttons.
